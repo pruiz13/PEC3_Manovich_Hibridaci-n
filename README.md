@@ -55,6 +55,9 @@ Más allá de las lecciones y ejercicios estructurados, Flowkey fomenta la creat
 
 En conclusión, Flowkey ha transformado la forma en que las personas aprenden a tocar el piano, su combinación de tecnología avanzada, retroalimentación en tiempo real, diversidad de contenido y enfoque centrado en el usuario lo convierte en una herramienta novedosa y valiosa para cualquier persona interesada en la música. Ya sea que estés dando tus primeros pasos en el mundo de la música o busques perfeccionar tus habilidades, Flowkey ofrece una experiencia educativa única y enriquecedora.
 
+## Conclusión
+Como hemos podido observar en los dos casos mostrados el resultado del proceso de hibridación no es simplemente una suma mecánica de las partes previamente existentes, sino una nueva “especie”, un nuevo tipo de estética visual que no existía anteriormente.
+
 
 
 ### Referencias y Bibliografía
