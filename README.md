@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![Cultura Digital](https://miro.medium.com/v2/resize:fit:2400/1*5MApCaZNUDQDPf8GDEmTQA.jpeg) 
 
-## Lev Manovich
+## Hibridación
 
 ## Re-descubriendo la hibridacion: Caso 1
 
